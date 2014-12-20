@@ -1,0 +1,18 @@
+Functional Programming with Groovy:
+- Why Functional Programming
+- Regular functions in Groovy
+- Groovy closures
+- Functions as values
+- Higher order functions
+	- Accept function arguments
+	- Return closure
+- Benefits of higher order functions
+- Command, Strategy, Execute Around
+- Currying
+- Benefits of currying vs OO style
+- Function composition
+- Tail call optimization
+- Momoization
+- Immutability in Groovy
+- Map Reduce Operations
+- Iteration vs Recursion
